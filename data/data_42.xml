@@ -1,0 +1,720 @@
+﻿<Report Name="MegallokGPSKoordinatai" xmlns="MegallokGPSKoordinatai">
+  <Stops>
+    <Stop stop_id="SZ_1038" stop_name="Fecske u." stop_lat="46.263590" stop_lon="20.164280" />
+    <Stop stop_id="SZ_1039" stop_name="Fecske u." stop_lat="46.264260" stop_lon="20.165050" />
+    <Stop stop_id="SZ_1145" stop_name="Gém utca" stop_lat="46.263150" stop_lon="20.151110" />
+    <Stop stop_id="SZ_1171" stop_name="Hétvezér utca" stop_lat="46.259303" stop_lon="20.144260" />
+    <Stop stop_id="SZ_1172" stop_name="Hétvezér utca" stop_lat="46.259176" stop_lon="20.144276" />
+    <Stop stop_id="SZ_1482" stop_name="Huszár utca" stop_lat="46.256580" stop_lon="20.134280" />
+    <Stop stop_id="SZ_1483" stop_name="Huszár utca" stop_lat="46.256280" stop_lon="20.135030" />
+    <Stop stop_id="SZ_1630" stop_name="Lugas utca" stop_lat="46.266820" stop_lon="20.170680" />
+    <Stop stop_id="SZ_1631" stop_name="Lugas utca" stop_lat="46.267020" stop_lon="20.170990" />
+    <Stop stop_id="SZ_1642" stop_name="Makkosházi krt." stop_lat="46.272325" stop_lon="20.150082" />
+    <Stop stop_id="SZ_1865" stop_name="Mura utca" stop_lat="46.257870" stop_lon="20.130850" />
+    <Stop stop_id="SZ_1866" stop_name="Mura utca" stop_lat="46.257780" stop_lon="20.131070" />
+    <Stop stop_id="SZ_1867" stop_name="Múzeum" stop_lat="46.252570" stop_lon="20.151460" />
+    <Stop stop_id="SZ_1942" stop_name="Csanádi utca" stop_lat="46.245040" stop_lon="20.159720" />
+    <Stop stop_id="SZ_1942" stop_name="Csanádi utca" stop_lat="46.245090" stop_lon="20.159635" />
+    <Stop stop_id="SZ_1942" stop_name="Csanádi utca" stop_lat="46.245109" stop_lon="20.159624" />
+    <Stop stop_id="SZ_1942" stop_name="Csanádi utca" stop_lat="46.245116" stop_lon="20.159602" />
+    <Stop stop_id="SZ_1942" stop_name="Csanádi utca" stop_lat="46.245135" stop_lon="20.159570" />
+    <Stop stop_id="SZ_1942" stop_name="Csanádi utca" stop_lat="46.245520" stop_lon="20.159101" />
+    <Stop stop_id="SZ_1942" stop_name="Csanádi utca" stop_lat="46.245520" stop_lon="20.159112" />
+    <Stop stop_id="SZ_1942" stop_name="Csanádi utca" stop_lat="46.245524" stop_lon="20.159090" />
+    <Stop stop_id="SZ_1943" stop_name="Csanádi utca" stop_lat="46.245430" stop_lon="20.159350" />
+    <Stop stop_id="SZ_2102" stop_name="Rókusi templom" stop_lat="46.259260" stop_lon="20.141770" />
+    <Stop stop_id="SZ_2103" stop_name="Rókusi templom" stop_lat="46.259310" stop_lon="20.141860" />
+    <Stop stop_id="SZ_2183" stop_name="Sándor u." stop_lat="46.261550" stop_lon="20.156910" />
+    <Stop stop_id="SZ_2289" stop_name="Tabán u.(Felső Tisza-part" stop_lat="46.258590" stop_lon="20.168170" />
+    <Stop stop_id="SZ_2290" stop_name="Tabán u.(Felső Tisza-part" stop_lat="46.258546" stop_lon="20.166790" />
+    <Stop stop_id="SZ_2292" stop_name="Széchenyi tér" stop_lat="46.252402" stop_lon="20.149285" />
+    <Stop stop_id="SZ_2678" stop_name="Berlini krt." stop_lat="46.261361" stop_lon="20.149742" />
+    <Stop stop_id="SZ_2679" stop_name="Berlini krt." stop_lat="46.261452" stop_lon="20.151818" />
+    <Stop stop_id="SZ_2682" stop_name="Damjanich u." stop_lat="46.262550" stop_lon="20.135750" />
+    <Stop stop_id="SZ_2683" stop_name="Deák F. Gimn." stop_lat="46.269740" stop_lon="20.157770" />
+    <Stop stop_id="SZ_2684" stop_name="Deák F. Gimn." stop_lat="46.269680" stop_lon="20.157800" />
+    <Stop stop_id="SZ_2700" stop_name="Makkosház" stop_lat="46.276541" stop_lon="20.147116" />
+    <Stop stop_id="SZ_2700" stop_name="Makkosház" stop_lat="46.276750" stop_lon="20.146826" />
+    <Stop stop_id="SZ_2705" stop_name="Rókusi II. Isk." stop_lat="46.270680" stop_lon="20.139670" />
+    <Stop stop_id="SZ_2706" stop_name="Rókusi II. Isk." stop_lat="46.270760" stop_lon="20.139650" />
+    <Stop stop_id="SZ_2714" stop_name="Víztorony tér" stop_lat="46.271031" stop_lon="20.164377" />
+    <Stop stop_id="SZ_273" stop_name="Bartók tér" stop_lat="46.254640" stop_lon="20.143760" />
+    <Stop stop_id="SZ_282" stop_name="Belvárosi tem." stop_lat="46.256070" stop_lon="20.106289" />
+    <Stop stop_id="SZ_283" stop_name="Belvárosi tem." stop_lat="46.256160" stop_lon="20.106200" />
+    <Stop stop_id="SZ_320" stop_name="Budapesti krt." stop_lat="46.273020" stop_lon="20.159480" />
+    <Stop stop_id="SZ_330" stop_name="Csaba utca" stop_lat="46.264168" stop_lon="20.169263" />
+    <Stop stop_id="SZ_331" stop_name="Csaba utca" stop_lat="46.263730" stop_lon="20.169640" />
+    <Stop stop_id="SZ_405" stop_name="Csillag tér" stop_lat="46.267270" stop_lon="20.167320" />
+    <Stop stop_id="SZ_406" stop_name="Csillag tér" stop_lat="46.267260" stop_lon="20.167140" />
+    <Stop stop_id="SZ_419" stop_name="Ságvári Gimnázium-SZTK" stop_lat="46.247440" stop_lon="20.145360" />
+    <Stop stop_id="SZ_437" stop_name="Víztorony tér" stop_lat="46.270330" stop_lon="20.163980" />
+    <Stop stop_id="SZ_560" stop_name="Vadaspark" stop_lat="46.253880" stop_lon="20.119759" />
+    <Stop stop_id="SZ_561" stop_name="Vadaspark" stop_lat="46.254029" stop_lon="20.117219" />
+    <Stop stop_id="SZ_578" stop_name="Vértó" stop_lat="46.272240" stop_lon="20.143340" />
+    <Stop stop_id="SZ_579" stop_name="Vértó" stop_lat="46.272220" stop_lon="20.143310" />
+    <Stop stop_id="SZ_62196" stop_name="Tavasz utca" stop_lat="46.260860" stop_lon="20.138750" />
+    <Stop stop_id="SZ_62197" stop_name="Tavasz utca" stop_lat="46.260490" stop_lon="20.139600" />
+    <Stop stop_id="SZ_62229" stop_name="Szeged Plaza" stop_lat="46.266430" stop_lon="20.126930" />
+    <Stop stop_id="SZ_62231" stop_name="Rókus pu." stop_lat="46.266117" stop_lon="20.125729" />
+    <Stop stop_id="SZ_62231" stop_name="Rókus vá." stop_lat="46.266117" stop_lon="20.125729" />
+    <Stop stop_id="SZ_62232" stop_name="Pulz utca" stop_lat="46.264490" stop_lon="20.125860" />
+    <Stop stop_id="SZ_62233" stop_name="Pulz utca" stop_lat="46.264463" stop_lon="20.126061" />
+    <Stop stop_id="SZ_62240" stop_name="Széchenyi tér" stop_lat="46.252787" stop_lon="20.148529" />
+    <Stop stop_id="SZ_62241" stop_name="Széchenyi tér" stop_lat="46.252750" stop_lon="20.149300" />
+    <Stop stop_id="SZ_62242" stop_name="Széchenyi tér" stop_lat="46.252690" stop_lon="20.149370" />
+    <Stop stop_id="SZ_62243" stop_name="Somogyi utca" stop_lat="46.250480" stop_lon="20.147680" />
+    <Stop stop_id="SZ_62244" stop_name="Somogyi utca" stop_lat="46.250460" stop_lon="20.147740" />
+    <Stop stop_id="SZ_62245" stop_name="Aradi v. tere" stop_lat="46.247840" stop_lon="20.146970" />
+    <Stop stop_id="SZ_62246" stop_name="Aradi v. tere" stop_lat="46.247830" stop_lon="20.147000" />
+    <Stop stop_id="SZ_62248" stop_name="Bécsi krt." stop_lat="46.243510" stop_lon="20.143790" />
+    <Stop stop_id="SZ_62249" stop_name="Bécsi krt." stop_lat="46.243460" stop_lon="20.143810" />
+    <Stop stop_id="SZ_62250" stop_name="Bem utca" stop_lat="46.240209" stop_lon="20.141269" />
+    <Stop stop_id="SZ_62251" stop_name="Szeged pu." stop_lat="46.239800" stop_lon="20.142630" />
+    <Stop stop_id="SZ_62251" stop_name="Szeged vá." stop_lat="46.239800" stop_lon="20.142630" />
+    <Stop stop_id="SZ_62252" stop_name="Rókus pu." stop_lat="46.265800" stop_lon="20.125470" />
+    <Stop stop_id="SZ_62252" stop_name="Rókus vá." stop_lat="46.265800" stop_lon="20.125470" />
+    <Stop stop_id="SZ_62253" stop_name="Galamb utca" stop_lat="46.241550" stop_lon="20.142340" />
+    <Stop stop_id="SZ_62254" stop_name="Dugonics tér" stop_lat="46.249750" stop_lon="20.144770" />
+    <Stop stop_id="SZ_62256" stop_name="Tarján" stop_lat="46.275590" stop_lon="20.164310" />
+    <Stop stop_id="SZ_62258" stop_name="Tarján" stop_lat="46.275439" stop_lon="20.164423" />
+    <Stop stop_id="SZ_62259" stop_name="Budapesti krt." stop_lat="46.272300" stop_lon="20.158840" />
+    <Stop stop_id="SZ_62262" stop_name="Tarján" stop_lat="46.275406" stop_lon="20.164546" />
+    <Stop stop_id="SZ_62265" stop_name="Kecskeméti u." stop_lat="46.264070" stop_lon="20.157490" />
+    <Stop stop_id="SZ_62266" stop_name="Kecskeméti u." stop_lat="46.264540" stop_lon="20.157490" />
+    <Stop stop_id="SZ_62267" stop_name="Brüsszeli krt." stop_lat="46.261830" stop_lon="20.157530" />
+    <Stop stop_id="SZ_62268" stop_name="Brüsszeli krt." stop_lat="46.261760" stop_lon="20.157580" />
+    <Stop stop_id="SZ_62269" stop_name="Szt György tér" stop_lat="46.259410" stop_lon="20.156860" />
+    <Stop stop_id="SZ_62270" stop_name="Szt György tér" stop_lat="46.258680" stop_lon="20.156700" />
+    <Stop stop_id="SZ_62277" stop_name="Vitéz u." stop_lat="46.248530" stop_lon="20.141160" />
+    <Stop stop_id="SZ_62278" stop_name="Vitéz u." stop_lat="46.248480" stop_lon="20.141130" />
+    <Stop stop_id="SZ_62279" stop_name="Szivárvány kit" stop_lat="46.246350" stop_lon="20.137190" />
+    <Stop stop_id="SZ_62280" stop_name="Szivárvány kit" stop_lat="46.245930" stop_lon="20.136410" />
+    <Stop stop_id="SZ_62281" stop_name="Vám tér" stop_lat="46.243290" stop_lon="20.131220" />
+    <Stop stop_id="SZ_62282" stop_name="Vám tér" stop_lat="46.243370" stop_lon="20.131100" />
+    <Stop stop_id="SZ_62283" stop_name="Szabadkai út" stop_lat="46.242550" stop_lon="20.127410" />
+    <Stop stop_id="SZ_62284" stop_name="Szabadkai út" stop_lat="46.242340" stop_lon="20.126700" />
+    <Stop stop_id="SZ_62285" stop_name="Szalámigyár" stop_lat="46.240990" stop_lon="20.122460" />
+    <Stop stop_id="SZ_62286" stop_name="Szalámigyár" stop_lat="46.241180" stop_lon="20.122960" />
+    <Stop stop_id="SZ_62287" stop_name="Kecskés" stop_lat="46.239910" stop_lon="20.118950" />
+    <Stop stop_id="SZ_62288" stop_name="Kecskés" stop_lat="46.239500" stop_lon="20.117680" />
+    <Stop stop_id="SZ_62289" stop_name="Vértói út" stop_lat="46.274280" stop_lon="20.141300" />
+    <Stop stop_id="SZ_62290" stop_name="Diófa Vendéglő" stop_lat="46.268808" stop_lon="20.151008" />
+    <Stop stop_id="SZ_62291" stop_name="Diófa Vendéglő" stop_lat="46.268897" stop_lon="20.151212" />
+    <Stop stop_id="SZ_62296" stop_name="Gyermekkórház" stop_lat="46.243690" stop_lon="20.161070" />
+    <Stop stop_id="SZ_62298" stop_name="Bakay N. utca" stop_lat="46.260634" stop_lon="20.123533" />
+    <Stop stop_id="SZ_62299" stop_name="Bakay N. utca" stop_lat="46.260867" stop_lon="20.123159" />
+    <Stop stop_id="SZ_62305" stop_name="Tündér utca" stop_lat="46.263160" stop_lon="20.150940" />
+    <Stop stop_id="SZ_62306" stop_name="Szt István tér" stop_lat="46.258340" stop_lon="20.150850" />
+    <Stop stop_id="SZ_62307" stop_name="Szt István tér" stop_lat="46.258251" stop_lon="20.150922" />
+    <Stop stop_id="SZ_62309" stop_name="Honvéd tér" stop_lat="46.249230" stop_lon="20.144848" />
+    <Stop stop_id="SZ_62310" stop_name="Klinikák" stop_lat="46.245694" stop_lon="20.147346" />
+    <Stop stop_id="SZ_62310" stop_name="Klinikák" stop_lat="46.245840" stop_lon="20.147470" />
+    <Stop stop_id="SZ_62311" stop_name="Makkosház" stop_lat="46.276512" stop_lon="20.147070" />
+    <Stop stop_id="SZ_62312" stop_name="Gát utca" stop_lat="46.275220" stop_lon="20.150650" />
+    <Stop stop_id="SZ_62313" stop_name="Gát utca" stop_lat="46.275180" stop_lon="20.151310" />
+    <Stop stop_id="SZ_62314" stop_name="Ortutay utca" stop_lat="46.273682" stop_lon="20.151456" />
+    <Stop stop_id="SZ_62315" stop_name="Ortutay utca" stop_lat="46.272955" stop_lon="20.151692" />
+    <Stop stop_id="SZ_62316" stop_name="Dózsa utca" stop_lat="46.255180" stop_lon="20.153460" />
+    <Stop stop_id="SZ_62317" stop_name="Dózsa utca" stop_lat="46.254950" stop_lon="20.153160" />
+    <Stop stop_id="SZ_62320" stop_name="Háló utca" stop_lat="46.257240" stop_lon="20.162770" />
+    <Stop stop_id="SZ_62321" stop_name="Háló utca" stop_lat="46.257000" stop_lon="20.161740" />
+    <Stop stop_id="SZ_62326" stop_name="Veresács u." stop_lat="46.252720" stop_lon="20.134020" />
+    <Stop stop_id="SZ_62327" stop_name="Veresács u." stop_lat="46.252693" stop_lon="20.133856" />
+    <Stop stop_id="SZ_62328" stop_name="Kálvária tér" stop_lat="46.253310" stop_lon="20.129850" />
+    <Stop stop_id="SZ_62329" stop_name="Kálvária tér" stop_lat="46.253310" stop_lon="20.129760" />
+    <Stop stop_id="SZ_62330" stop_name="II. Kórház" stop_lat="46.253530" stop_lon="20.126330" />
+    <Stop stop_id="SZ_62331" stop_name="II. Kórház" stop_lat="46.253580" stop_lon="20.125510" />
+    <Stop stop_id="SZ_62332" stop_name="Vadaspark" stop_lat="46.254040" stop_lon="20.117810" />
+    <Stop stop_id="SZ_62338" stop_name="Belv. tem. II." stop_lat="46.258970" stop_lon="20.106850" />
+    <Stop stop_id="SZ_62339" stop_name="Belv. tem. II." stop_lat="46.259029" stop_lon="20.106880" />
+    <Stop stop_id="SZ_62340" stop_name="Kereskedő köz" stop_lat="46.261620" stop_lon="20.108350" />
+    <Stop stop_id="SZ_62341" stop_name="Kereskedő köz" stop_lat="46.261560" stop_lon="20.108319" />
+    <Stop stop_id="SZ_62342" stop_name="Fonógyári út" stop_lat="46.264840" stop_lon="20.110180" />
+    <Stop stop_id="SZ_62346" stop_name="Szeged pu." stop_lat="46.239790" stop_lon="20.142559" />
+    <Stop stop_id="SZ_62346" stop_name="Szeged vá." stop_lat="46.239790" stop_lon="20.142559" />
+    <Stop stop_id="SZ_62347" stop_name="Körtöltés utca" stop_lat="46.269840" stop_lon="20.134610" />
+    <Stop stop_id="SZ_62348" stop_name="Körtöltés utca" stop_lat="46.269540" stop_lon="20.135050" />
+    <Stop stop_id="SZ_62355" stop_name="Torontál tér (P+R)" stop_lat="46.247700" stop_lon="20.158260" />
+    <Stop stop_id="SZ_62356" stop_name="Torontál tér (P+R)" stop_lat="46.248860" stop_lon="20.158540" />
+    <Stop stop_id="SZ_62361" stop_name="Szatymazi utca" stop_lat="46.266690" stop_lon="20.132570" />
+    <Stop stop_id="SZ_62362" stop_name="Szatymazi utca" stop_lat="46.267250" stop_lon="20.133150" />
+    <Stop stop_id="SZ_62363" stop_name="Római krt." stop_lat="46.260653" stop_lon="20.160584" />
+    <Stop stop_id="SZ_62364" stop_name="Római krt." stop_lat="46.261157" stop_lon="20.162220" />
+    <Stop stop_id="SZ_62365" stop_name="Gál u." stop_lat="46.261061" stop_lon="20.158728" />
+    <Stop stop_id="SZ_62366" stop_name="Vásárhelyi P. u." stop_lat="46.263870" stop_lon="20.132090" />
+    <Stop stop_id="SZ_62367" stop_name="Anna - kút" stop_lat="46.256150" stop_lon="20.147640" />
+    <Stop stop_id="SZ_62368" stop_name="Anna - kút" stop_lat="46.256230" stop_lon="20.147570" />
+    <Stop stop_id="SZ_62369" stop_name="Vásárhelyi P. u." stop_lat="46.263670" stop_lon="20.130360" />
+    <Stop stop_id="SZ_62370" stop_name="Londoni krt." stop_lat="46.251950" stop_lon="20.138250" />
+    <Stop stop_id="SZ_62371" stop_name="Londoni krt." stop_lat="46.251970" stop_lon="20.138170" />
+    <Stop stop_id="SZ_62372" stop_name="Dugonics tér" stop_lat="46.251030" stop_lon="20.144040" />
+    <Stop stop_id="SZ_62373" stop_name="Anna - kút" stop_lat="46.256090" stop_lon="20.148750" />
+    <Stop stop_id="SZ_62374" stop_name="Anna - kút" stop_lat="46.255990" stop_lon="20.148590" />
+    <Stop stop_id="SZ_62375" stop_name="Dugonics tér" stop_lat="46.251559" stop_lon="20.144742" />
+    <Stop stop_id="SZ_62376" stop_name="Dugonics tér" stop_lat="46.250600" stop_lon="20.144570" />
+    <Stop stop_id="SZ_62377" stop_name="Mars tér (Aut. áll.)" stop_lat="46.256929" stop_lon="20.141483" />
+    <Stop stop_id="SZ_62378" stop_name="Mars tér (Aut. áll.)" stop_lat="46.256875" stop_lon="20.141682" />
+    <Stop stop_id="SZ_62380" stop_name="Mars tér (Attila u.)" stop_lat="46.256168" stop_lon="20.140789" />
+    <Stop stop_id="SZ_62381" stop_name="Londoni krt. (Bakay N. u." stop_lat="46.254916" stop_lon="20.138669" />
+    <Stop stop_id="SZ_62382" stop_name="Londoni krt. (Bakay N. u." stop_lat="46.255224" stop_lon="20.137945" />
+    <Stop stop_id="SZ_62383" stop_name="Vásárhelyi Pál utca (Baka" stop_lat="46.259040" stop_lon="20.127720" />
+    <Stop stop_id="SZ_62384" stop_name="Vásárhelyi Pál utca (Baka" stop_lat="46.259860" stop_lon="20.125760" />
+    <Stop stop_id="SZ_62385" stop_name="Rókusi vízt." stop_lat="46.269080" stop_lon="20.135928" />
+    <Stop stop_id="SZ_62386" stop_name="Anna - kút" stop_lat="46.256440" stop_lon="20.149270" />
+    <Stop stop_id="SZ_62387" stop_name="Dugonics tér" stop_lat="46.251510" stop_lon="20.144820" />
+    <Stop stop_id="SZ_62388" stop_name="Csillag tér" stop_lat="46.266748" stop_lon="20.168279" />
+    <Stop stop_id="SZ_62389" stop_name="Csillag tér" stop_lat="46.266885" stop_lon="20.168515" />
+    <Stop stop_id="SZ_62394" stop_name="Vértó" stop_lat="46.272090" stop_lon="20.144450" />
+    <Stop stop_id="SZ_62396" stop_name="Rózsa utca" stop_lat="46.266040" stop_lon="20.151240" />
+    <Stop stop_id="SZ_62397" stop_name="Rózsa utca" stop_lat="46.266780" stop_lon="20.151470" />
+    <Stop stop_id="SZ_62398" stop_name="Rózsa utca" stop_lat="46.266830" stop_lon="20.157390" />
+    <Stop stop_id="SZ_62399" stop_name="Rózsa utca" stop_lat="46.266170" stop_lon="20.157460" />
+    <Stop stop_id="SZ_62400" stop_name="Makkosházi krt." stop_lat="46.272408" stop_lon="20.147273" />
+    <Stop stop_id="SZ_62401" stop_name="Makkosházi krt." stop_lat="46.271640" stop_lon="20.148840" />
+    <Stop stop_id="SZ_62405" stop_name="Széchenyi tér" stop_lat="46.252680" stop_lon="20.148510" />
+    <Stop stop_id="SZ_62406" stop_name="Széchenyi tér" stop_lat="46.252340" stop_lon="20.149650" />
+    <Stop stop_id="SZ_62408" stop_name="Aradi v. tere" stop_lat="46.247180" stop_lon="20.147100" />
+    <Stop stop_id="SZ_62411" stop_name="Glattfelder t." stop_lat="46.256710" stop_lon="20.156030" />
+    <Stop stop_id="SZ_62412" stop_name="Glattfelder t." stop_lat="46.256590" stop_lon="20.156100" />
+    <Stop stop_id="SZ_62413" stop_name="Károlyi u." stop_lat="46.254790" stop_lon="20.146710" />
+    <Stop stop_id="SZ_62414" stop_name="Károlyi u." stop_lat="46.254600" stop_lon="20.146620" />
+    <Stop stop_id="SZ_62416" stop_name="Mikszáth K. u." stop_lat="46.254520" stop_lon="20.145880" />
+    <Stop stop_id="SZ_62417" stop_name="Európa liget" stop_lat="46.273580" stop_lon="20.147020" />
+    <Stop stop_id="SZ_62418" stop_name="Vásárhelyi P. u." stop_lat="46.264870" stop_lon="20.131150" />
+    <Stop stop_id="SZ_62419" stop_name="Rókusi vízt." stop_lat="46.269270" stop_lon="20.136090" />
+    <Stop stop_id="SZ_62420" stop_name="Rókusi vízt." stop_lat="46.269220" stop_lon="20.136050" />
+    <Stop stop_id="SZ_62422" stop_name="Vitéz u." stop_lat="46.248561" stop_lon="20.141069" />
+    <Stop stop_id="SZ_62428" stop_name="Attila u. (Mars tér)" stop_lat="46.255621" stop_lon="20.141248" />
+    <Stop stop_id="SZ_62438" stop_name="Bercsényi u." stop_lat="46.260849" stop_lon="20.150718" />
+    <Stop stop_id="SZ_62439" stop_name="Szeged Plaza" stop_lat="46.266440" stop_lon="20.126950" />
+    <Stop stop_id="SZ_62441" stop_name="Tarján" stop_lat="46.275550" stop_lon="20.164380" />
+    <Stop stop_id="SZ_62442" stop_name="Európa liget" stop_lat="46.273561" stop_lon="20.147113" />
+    <Stop stop_id="SZ_62443" stop_name="Rókusi II. Isk." stop_lat="46.270860" stop_lon="20.139350" />
+    <Stop stop_id="SZ_62444" stop_name="Rókusi II. Isk." stop_lat="46.270820" stop_lon="20.139320" />
+    <Stop stop_id="SZ_62445" stop_name="Vértó" stop_lat="46.272100" stop_lon="20.143209" />
+    <Stop stop_id="SZ_62446" stop_name="Fonógyári út" stop_lat="46.264000" stop_lon="20.109680" />
+    <Stop stop_id="SZ_70177" stop_name="Makkosház" stop_lat="46.277182" stop_lon="20.147044" />
+    <Stop stop_id="SZ_73673" stop_name="II. Kórház" stop_lat="46.253531" stop_lon="20.125173" />
+    <Stop stop_id="SZ_73674" stop_name="II. Kórház" stop_lat="46.253375" stop_lon="20.126289" />
+    <Stop stop_id="SZ_73675" stop_name="Kálvária tér" stop_lat="46.253197" stop_lon="20.130334" />
+    <Stop stop_id="SZ_73676" stop_name="Kálvária tér" stop_lat="46.253071" stop_lon="20.130248" />
+    <Stop stop_id="SZ_73683" stop_name="Kálvária sgt. (Vásárhelyi" stop_lat="46.254258" stop_lon="20.123870" />
+    <Stop stop_id="SZ_73684" stop_name="Kenyérgyári út" stop_lat="46.255623" stop_lon="20.124170" />
+    <Stop stop_id="SZ_73685" stop_name="Volánbusz Zrt." stop_lat="46.257404" stop_lon="20.125769" />
+    <Stop stop_id="SZ_73686" stop_name="Volánbusz Zrt." stop_lat="46.257908" stop_lon="20.126053" />
+    <Stop stop_id="SZ_73727" stop_name="Európa liget" stop_lat="46.273074" stop_lon="20.147560" />
+    <Stop stop_id="SZ_73728" stop_name="Európa liget" stop_lat="46.273103" stop_lon="20.147442" />
+    <Stop stop_id="SZ_73796" stop_name="Klinikák" stop_lat="46.246281" stop_lon="20.147777" />
+    <Stop stop_id="SZ_73799" stop_name="Glattfelder t." stop_lat="46.255955" stop_lon="20.156027" />
+    <Stop stop_id="SZ_73800" stop_name="Glattfelder t." stop_lat="46.255784" stop_lon="20.156778" />
+    <Stop stop_id="SZ_73880" stop_name="Vitéz u." stop_lat="46.248454" stop_lon="20.141018" />
+    <Stop stop_id="SZ_73881" stop_name="Moszkvai krt." stop_lat="46.246581" stop_lon="20.137300" />
+    <Stop stop_id="SZ_73882" stop_name="Moszkvai krt." stop_lat="46.246327" stop_lon="20.136980" />
+    <Stop stop_id="SZ_73883" stop_name="Vám tér" stop_lat="46.244247" stop_lon="20.132853" />
+    <Stop stop_id="SZ_73884" stop_name="Vám tér" stop_lat="46.243747" stop_lon="20.131973" />
+    <Stop stop_id="SZ_73885" stop_name="Szabadkai út" stop_lat="46.242489" stop_lon="20.126668" />
+    <Stop stop_id="SZ_73886" stop_name="Szabadkai út" stop_lat="46.242255" stop_lon="20.126298" />
+    <Stop stop_id="SZ_73887" stop_name="Szalámigyár" stop_lat="46.241053" stop_lon="20.122140" />
+    <Stop stop_id="SZ_73888" stop_name="Szalámigyár" stop_lat="46.241168" stop_lon="20.122800" />
+    <Stop stop_id="SZ_73889" stop_name="Kecskés" stop_lat="46.239617" stop_lon="20.119871" />
+    <Stop stop_id="SZ_73890" stop_name="Kecskés" stop_lat="46.239484" stop_lon="20.120064" />
+    <Stop stop_id="SZ_73891" stop_name="Forgalmi terelés I." stop_lat="46.249155" stop_lon="20.142384" />
+    <Stop stop_id="SZ_73892" stop_name="Forgalmi terelés II." stop_lat="46.252650" stop_lon="20.145136" />
+    <Stop stop_id="SZ_73893" stop_name="Vásárhelyi P. u." stop_lat="46.265909" stop_lon="20.132086" />
+    <Stop stop_id="SZ_73894" stop_name="Forgalmi terelés III." stop_lat="46.274193" stop_lon="20.161740" />
+    <Stop stop_id="SZ_73895" stop_name="Forgalmi terelés IV." stop_lat="46.256674" stop_lon="20.153018" />
+    <Stop stop_id="SZ_73897" stop_name="Hajós u." stop_lat="46.259974" stop_lon="20.165004" />
+    <Stop stop_id="SZ_73898" stop_name="Hajós u." stop_lat="46.259777" stop_lon="20.165079" />
+    <Stop stop_id="SZ_73899" stop_name="Fecske u." stop_lat="46.263545" stop_lon="20.165444" />
+    <Stop stop_id="SZ_73900" stop_name="Retek u." stop_lat="46.266449" stop_lon="20.165240" />
+    <Stop stop_id="SZ_73901" stop_name="Retek u." stop_lat="46.266453" stop_lon="20.165851" />
+    <Stop stop_id="SZ_73902" stop_name="Forg. terelés V." stop_lat="46.256588" stop_lon="20.141159" />
+    <Stop stop_id="SZ_73903" stop_name="Forg. terelés VI." stop_lat="46.253954" stop_lon="20.145376" />
+    <Stop stop_id="SZ_73904" stop_name="Forg. terelés VII." stop_lat="46.253201" stop_lon="20.151984" />
+    <Stop stop_id="SZ_73905" stop_name="Forg. terelés VIII." stop_lat="46.256098" stop_lon="20.158357" />
+    <Stop stop_id="SZ_73906" stop_name="Forg. terelés IX." stop_lat="46.254058" stop_lon="20.152499" />
+    <Stop stop_id="SZ_73907" stop_name="19S I." stop_lat="46.253876" stop_lon="20.147285" />
+    <Stop stop_id="SZ_73908" stop_name="19S II." stop_lat="46.255579" stop_lon="20.143192" />
+    <Stop stop_id="SZ_73910" stop_name="7A terelés I." stop_lat="46.260302" stop_lon="20.124411" />
+    <Stop stop_id="SZ_73911" stop_name="7A terelés II." stop_lat="46.255011" stop_lon="20.144571" />
+    <Stop stop_id="SZ_73912" stop_name="Agyagos utca" stop_lat="46.272606" stop_lon="20.152285" />
+    <Stop stop_id="SZ_73913" stop_name="Agyagos utca" stop_lat="46.272606" stop_lon="20.155643" />
+    <Stop stop_id="SZ_73914" stop_name="Budapesti krt." stop_lat="46.272361" stop_lon="20.160782" />
+    <Stop stop_id="SZ_73915" stop_name="Budapesti krt." stop_lat="46.272361" stop_lon="20.160106" />
+    <Stop stop_id="SZ_73916" stop_name="Víztorony tér" stop_lat="46.270819" stop_lon="20.164483" />
+    <Stop stop_id="SZ_73917" stop_name="Forg. terelés X." stop_lat="46.251637" stop_lon="20.151045" />
+    <Stop stop_id="SZ_73918" stop_name="Torontál tér (P+R)" stop_lat="46.247860" stop_lon="20.159189" />
+    <Stop stop_id="SZ_73919" stop_name="Sportcsarnok" stop_lat="46.245360" stop_lon="20.162960" />
+    <Stop stop_id="SZ_878" stop_name="Damjanich u." stop_lat="46.262920" stop_lon="20.134780" />
+    <Stop stop_id="SZ_989" stop_name="Erdő utca" stop_lat="46.261120" stop_lon="20.171550" />
+    <Stop stop_id="SZ_990" stop_name="Erdő utca" stop_lat="46.260990" stop_lon="20.171350" />
+    <Stop stop_id="SZ_990" stop_name="Erdő utca" stop_lat="46.261407" stop_lon="20.171417" />
+    <Stop stop_id="SZ_990" stop_name="Erdő utca" stop_lat="46.261411" stop_lon="20.171433" />
+    <Stop stop_id="SZ_993" stop_name="Etelka sor" stop_lat="46.258885" stop_lon="20.171411" />
+    <Stop stop_id="SZ_994" stop_name="Etelka sor" stop_lat="46.258516" stop_lon="20.170631" />
+    <Stop stop_id="TV_100240" stop_name="Bartók tér" stop_lat="46.254571" stop_lon="20.143942" />
+    <Stop stop_id="TV_100275" stop_name="Cinke u." stop_lat="46.239320" stop_lon="20.188745" />
+    <Stop stop_id="TV_100276" stop_name="Cinke u." stop_lat="46.239673" stop_lon="20.188002" />
+    <Stop stop_id="TV_100347" stop_name="Thököly u." stop_lat="46.241428" stop_lon="20.183894" />
+    <Stop stop_id="TV_100348" stop_name="Thököly u." stop_lat="46.241568" stop_lon="20.184442" />
+    <Stop stop_id="TV_100349" stop_name="Thököly u." stop_lat="46.241060" stop_lon="20.184660" />
+    <Stop stop_id="TV_100388" stop_name="Újszeged, víztorony" stop_lat="46.244814" stop_lon="20.173616" />
+    <Stop stop_id="TV_100389" stop_name="Újszeged, víztorony" stop_lat="46.244987" stop_lon="20.173275" />
+    <Stop stop_id="TV_100669" stop_name="Damjanich u." stop_lat="46.262638" stop_lon="20.135587" />
+    <Stop stop_id="TV_100754" stop_name="Erdélyi tér" stop_lat="46.238042" stop_lon="20.179669" />
+    <Stop stop_id="TV_100820" stop_name="Fonógyári út" stop_lat="46.266084" stop_lon="20.112990" />
+    <Stop stop_id="TV_100821" stop_name="Fonógyári út" stop_lat="46.266043" stop_lon="20.112244" />
+    <Stop stop_id="TV_100852" stop_name="Fő fasor" stop_lat="46.246971" stop_lon="20.166355" />
+    <Stop stop_id="TV_100872" stop_name="Hargitai u." stop_lat="46.236381" stop_lon="20.185117" />
+    <Stop stop_id="TV_100873" stop_name="Hargitai u." stop_lat="46.236158" stop_lon="20.185433" />
+    <Stop stop_id="TV_101457" stop_name="Pinty u." stop_lat="46.237423" stop_lon="20.182665" />
+    <Stop stop_id="TV_101458" stop_name="Pinty u." stop_lat="46.236961" stop_lon="20.183612" />
+    <Stop stop_id="TV_101510" stop_name="Radnóti u." stop_lat="46.243031" stop_lon="20.179494" />
+    <Stop stop_id="TV_101511" stop_name="Radnóti u." stop_lat="46.242102" stop_lon="20.182359" />
+    <Stop stop_id="TV_101788" stop_name="Szeged, Szélső sor" stop_lat="46.278343" stop_lon="20.167397" />
+    <Stop stop_id="TV_101789" stop_name="Szeged, Szélső sor" stop_lat="46.278330" stop_lon="20.167220" />
+    <Stop stop_id="TV_101919" stop_name="Damjanich u." stop_lat="46.262839" stop_lon="20.134982" />
+    <Stop stop_id="TV_101922" stop_name="Közép fasor" stop_lat="46.246700" stop_lon="20.167004" />
+    <Stop stop_id="TV_101923" stop_name="Közép fasor" stop_lat="46.246363" stop_lon="20.168336" />
+    <Stop stop_id="TV_101924" stop_name="Szeged, Rókus vá. bej. út" stop_lat="46.265478" stop_lon="20.127416" />
+    <Stop stop_id="TV_101925" stop_name="Szeged, Rókus vá. bej. út" stop_lat="46.265267" stop_lon="20.127645" />
+    <Stop stop_id="TV_101931" stop_name="Centrum Áruház (Mikszáth" stop_lat="46.254614" stop_lon="20.145654" />
+    <Stop stop_id="TV_107375" stop_name="Mars tér" stop_lat="46.256168" stop_lon="20.141834" />
+    <Stop stop_id="TV_107459" stop_name="SZILK" stop_lat="46.288785" stop_lon="20.084276" />
+    <Stop stop_id="TV_107460" stop_name="Pipiske utca" stop_lat="46.237540" stop_lon="20.187789" />
+    <Stop stop_id="TV_107461" stop_name="Pipiske utca" stop_lat="46.237893" stop_lon="20.188091" />
+    <Stop stop_id="TV_107469" stop_name="Mars tér" stop_lat="46.255513" stop_lon="20.143332" />
+    <Stop stop_id="TV_107470" stop_name="Mars tér" stop_lat="46.255513" stop_lon="20.143332" />
+    <Stop stop_id="TV_107475" stop_name="Tavasz utca" stop_lat="46.260608" stop_lon="20.139313" />
+    <Stop stop_id="TV_107476" stop_name="Tavasz utca" stop_lat="46.260778" stop_lon="20.138870" />
+    <Stop stop_id="TV_107540" stop_name="Torontál tér (P+R)" stop_lat="46.247662" stop_lon="20.158203" />
+    <Stop stop_id="TV_107541" stop_name="Torontál tér (P+R)" stop_lat="46.248978" stop_lon="20.158485" />
+    <Stop stop_id="TV_107542" stop_name="Torontál tér (P+R)" stop_lat="46.247833" stop_lon="20.159237" />
+    <Stop stop_id="TV_107551" stop_name="Széchenyi tér" stop_lat="46.252944" stop_lon="20.147850" />
+    <Stop stop_id="TV_107552" stop_name="Széchenyi tér" stop_lat="46.252751" stop_lon="20.148510" />
+    <Stop stop_id="TV_107553" stop_name="Széchenyi tér" stop_lat="46.252609" stop_lon="20.148688" />
+    <Stop stop_id="TV_108925" stop_name="Csemegi-tó" stop_lat="46.260305" stop_lon="20.127999" />
+    <Stop stop_id="TV_108926" stop_name="Csemegi-tó" stop_lat="46.260305" stop_lon="20.127999" />
+    <Stop stop_id="TV_109950" stop_name="Mars tér" stop_lat="46.255736" stop_lon="20.142856" />
+    <Stop stop_id="TV_109951" stop_name="Öthalmi Diáklakások" stop_lat="46.275770" stop_lon="20.099190" />
+    <Stop stop_id="TV_109952" stop_name="Öthalmi Diáklakások" stop_lat="46.275003" stop_lon="20.099648" />
+    <Stop stop_id="TV_109953" stop_name="Budapesti út (Dorozsmai ú" stop_lat="46.269205" stop_lon="20.103480" />
+    <Stop stop_id="TV_109954" stop_name="Budapesti út (Dorozsmai ú" stop_lat="46.268498" stop_lon="20.103576" />
+    <Stop stop_id="TV_109955" stop_name="Zápor út" stop_lat="46.272986" stop_lon="20.101743" />
+    <Stop stop_id="TV_109956" stop_name="Zápor út" stop_lat="46.271830" stop_lon="20.102070" />
+    <Stop stop_id="TV_109957" stop_name="Vásárhelyi Pál u. (Kossut" stop_lat="46.263755" stop_lon="20.132320" />
+    <Stop stop_id="TV_110059" stop_name="Auchan Áruház" stop_lat="46.274345" stop_lon="20.103144" />
+    <Stop stop_id="TV_110060" stop_name="Gumigyár, buszforduló" stop_lat="46.278641" stop_lon="20.095276" />
+    <Stop stop_id="TV_110061" stop_name="Mars tér" stop_lat="46.257890" stop_lon="20.140640" />
+    <Stop stop_id="TV_110062" stop_name="Mars tér" stop_lat="46.258020" stop_lon="20.140300" />
+    <Stop stop_id="TV_110063" stop_name="Mars tér" stop_lat="46.257380" stop_lon="20.141850" />
+    <Stop stop_id="TV_110431" stop_name="Acél u." stop_lat="46.277783" stop_lon="20.170945" />
+    <Stop stop_id="TV_110432" stop_name="Acél u." stop_lat="46.278344" stop_lon="20.170745" />
+    <Stop stop_id="TV_110433" stop_name="Agyagos u." stop_lat="46.272560" stop_lon="20.155573" />
+    <Stop stop_id="TV_110434" stop_name="Agyagos u." stop_lat="46.272623" stop_lon="20.152097" />
+    <Stop stop_id="TV_110435" stop_name="Akácfa u." stop_lat="46.234612" stop_lon="20.151398" />
+    <Stop stop_id="TV_110436" stop_name="Akácfa u." stop_lat="46.234665" stop_lon="20.151344" />
+    <Stop stop_id="TV_110437" stop_name="Alkony u." stop_lat="46.252603" stop_lon="20.131539" />
+    <Stop stop_id="TV_110438" stop_name="Alkony u." stop_lat="46.252324" stop_lon="20.131527" />
+    <Stop stop_id="TV_110439" stop_name="Alkotmány u." stop_lat="46.280790" stop_lon="20.167950" />
+    <Stop stop_id="TV_110440" stop_name="Apály u." stop_lat="46.210930" stop_lon="20.108010" />
+    <Stop stop_id="TV_110441" stop_name="Apály u." stop_lat="46.211050" stop_lon="20.108100" />
+    <Stop stop_id="TV_110442" stop_name="Árok u." stop_lat="46.256053" stop_lon="20.193777" />
+    <Stop stop_id="TV_110443" stop_name="Árok u." stop_lat="46.256298" stop_lon="20.193314" />
+    <Stop stop_id="TV_110444" stop_name="Artézi kút" stop_lat="46.223615" stop_lon="20.085310" />
+    <Stop stop_id="TV_110445" stop_name="Artézi kút" stop_lat="46.223460" stop_lon="20.085169" />
+    <Stop stop_id="TV_110446" stop_name="Völgyérhát u." stop_lat="46.290450" stop_lon="20.160770" />
+    <Stop stop_id="TV_110447" stop_name="Balatoni u." stop_lat="46.281404" stop_lon="20.170823" />
+    <Stop stop_id="TV_110448" stop_name="Balatoni u." stop_lat="46.281304" stop_lon="20.170814" />
+    <Stop stop_id="TV_110449" stop_name="Barázda u." stop_lat="46.223699" stop_lon="20.192361" />
+    <Stop stop_id="TV_110450" stop_name="Barázda u." stop_lat="46.223948" stop_lon="20.192027" />
+    <Stop stop_id="TV_110451" stop_name="Bécsi krt." stop_lat="46.244049" stop_lon="20.140339" />
+    <Stop stop_id="TV_110452" stop_name="Bécsi krt." stop_lat="46.243824" stop_lon="20.140244" />
+    <Stop stop_id="TV_110453" stop_name="Béketelep, MEDIKÉMIA" stop_lat="46.278675" stop_lon="20.130358" />
+    <Stop stop_id="TV_110454" stop_name="Béketelepi Ált. Isk." stop_lat="46.272802" stop_lon="20.123007" />
+    <Stop stop_id="TV_110455" stop_name="Béketelepi Ált. Isk." stop_lat="46.272631" stop_lon="20.122837" />
+    <Stop stop_id="TV_110456" stop_name="Belvárosi temető" stop_lat="46.255295" stop_lon="20.106304" />
+    <Stop stop_id="TV_110457" stop_name="Belvárosi temető" stop_lat="46.255569" stop_lon="20.106146" />
+    <Stop stop_id="TV_110458" stop_name="Beszterce utca" stop_lat="46.257945" stop_lon="20.188692" />
+    <Stop stop_id="TV_110459" stop_name="Beszterce utca" stop_lat="46.258274" stop_lon="20.187965" />
+    <Stop stop_id="TV_110460" stop_name="Bognár u." stop_lat="46.288288" stop_lon="20.163958" />
+    <Stop stop_id="TV_110461" stop_name="Bognár u." stop_lat="46.288704" stop_lon="20.163795" />
+    <Stop stop_id="TV_110462" stop_name="Budapesti krt." stop_lat="46.273235" stop_lon="20.160229" />
+    <Stop stop_id="TV_110463" stop_name="Budapesti krt." stop_lat="46.272026" stop_lon="20.158822" />
+    <Stop stop_id="TV_110464" stop_name="Centrum Áruház" stop_lat="46.254482" stop_lon="20.146459" />
+    <Stop stop_id="TV_110465" stop_name="Centrum Áruház" stop_lat="46.254878" stop_lon="20.146905" />
+    <Stop stop_id="TV_110466" stop_name="Czékus u." stop_lat="46.282768" stop_lon="20.071836" />
+    <Stop stop_id="TV_110467" stop_name="Csaba u." stop_lat="46.264208" stop_lon="20.169230" />
+    <Stop stop_id="TV_110468" stop_name="Csaba u." stop_lat="46.263617" stop_lon="20.169677" />
+    <Stop stop_id="TV_110469" stop_name="Csallóközi u." stop_lat="46.281382" stop_lon="20.125004" />
+    <Stop stop_id="TV_110470" stop_name="Szent-Györgyi Albert u." stop_lat="46.250520" stop_lon="20.166870" />
+    <Stop stop_id="TV_110471" stop_name="Szent-Györgyi Albert u." stop_lat="46.250690" stop_lon="20.167060" />
+    <Stop stop_id="TV_110472" stop_name="Szentmihály" stop_lat="46.212248" stop_lon="20.069222" />
+    <Stop stop_id="TV_110473" stop_name="Szentmihály, malom" stop_lat="46.219167" stop_lon="20.079113" />
+    <Stop stop_id="TV_110474" stop_name="Szentmihály, malom" stop_lat="46.218882" stop_lon="20.078770" />
+    <Stop stop_id="TV_110475" stop_name="Csillag tér (Budapesti kr" stop_lat="46.267040" stop_lon="20.167220" />
+    <Stop stop_id="TV_110476" stop_name="Csillag tér (Budapesti kr" stop_lat="46.267310" stop_lon="20.167160" />
+    <Stop stop_id="TV_110477" stop_name="Szőreg, ABC" stop_lat="46.221116" stop_lon="20.196801" />
+    <Stop stop_id="TV_110478" stop_name="Szőreg, ABC" stop_lat="46.221193" stop_lon="20.196909" />
+    <Stop stop_id="TV_110479" stop_name="Szőreg, malom" stop_lat="46.202172" stop_lon="20.194397" />
+    <Stop stop_id="TV_110480" stop_name="Szöri u." stop_lat="46.247203" stop_lon="20.177971" />
+    <Stop stop_id="TV_110481" stop_name="Szöri u." stop_lat="46.247153" stop_lon="20.178655" />
+    <Stop stop_id="TV_110482" stop_name="Szövetség u." stop_lat="46.246011" stop_lon="20.184004" />
+    <Stop stop_id="TV_110483" stop_name="Szövetség u." stop_lat="46.246464" stop_lon="20.182810" />
+    <Stop stop_id="TV_110484" stop_name="Szúnyog u." stop_lat="46.222659" stop_lon="20.109614" />
+    <Stop stop_id="TV_110485" stop_name="Szúnyog u." stop_lat="46.223253" stop_lon="20.109131" />
+    <Stop stop_id="TV_110486" stop_name="Tanács u." stop_lat="46.244203" stop_lon="20.186803" />
+    <Stop stop_id="TV_110487" stop_name="Tanács u." stop_lat="46.244839" stop_lon="20.186538" />
+    <Stop stop_id="TV_110488" stop_name="Tápé, Ált. Isk." stop_lat="46.259521" stop_lon="20.193800" />
+    <Stop stop_id="TV_110489" stop_name="Tápé, Ált. Isk." stop_lat="46.259892" stop_lon="20.193366" />
+    <Stop stop_id="TV_110490" stop_name="Tarján, víztorony" stop_lat="46.270680" stop_lon="20.164640" />
+    <Stop stop_id="TV_110491" stop_name="Tarján, víztorony" stop_lat="46.271100" stop_lon="20.164440" />
+    <Stop stop_id="TV_110492" stop_name="Víztorony tér" stop_lat="46.270184" stop_lon="20.164203" />
+    <Stop stop_id="TV_110494" stop_name="Tassi ház" stop_lat="46.272151" stop_lon="20.083743" />
+    <Stop stop_id="TV_110495" stop_name="Tassi ház" stop_lat="46.271753" stop_lon="20.084742" />
+    <Stop stop_id="TV_110496" stop_name="Töltés u." stop_lat="46.242622" stop_lon="20.169519" />
+    <Stop stop_id="TV_110497" stop_name="Töltés u." stop_lat="46.243115" stop_lon="20.168789" />
+    <Stop stop_id="TV_110498" stop_name="Traktor u." stop_lat="46.233040" stop_lon="20.175280" />
+    <Stop stop_id="TV_110499" stop_name="Traktor u." stop_lat="46.233130" stop_lon="20.175350" />
+    <Stop stop_id="TV_110500" stop_name="Tűzoltó utca" stop_lat="46.266411" stop_lon="20.117576" />
+    <Stop stop_id="TV_110501" stop_name="Új-Petőfitelep" stop_lat="46.284060" stop_lon="20.174008" />
+    <Stop stop_id="TV_110502" stop_name="Vadaspark" stop_lat="46.254017" stop_lon="20.116516" />
+    <Stop stop_id="TV_110503" stop_name="Vadaspark" stop_lat="46.253893" stop_lon="20.117783" />
+    <Stop stop_id="TV_110504" stop_name="Vadkerti tér" stop_lat="46.234980" stop_lon="20.126050" />
+    <Stop stop_id="TV_110505" stop_name="Vadkerti tér" stop_lat="46.235160" stop_lon="20.126660" />
+    <Stop stop_id="TV_110506" stop_name="Vadkerti tér" stop_lat="46.234430" stop_lon="20.124560" />
+    <Stop stop_id="TV_110508" stop_name="Vaspálya u." stop_lat="46.213544" stop_lon="20.189516" />
+    <Stop stop_id="TV_110509" stop_name="Vaspálya u." stop_lat="46.213705" stop_lon="20.189654" />
+    <Stop stop_id="TV_110510" stop_name="Verbéna u." stop_lat="46.226293" stop_lon="20.088998" />
+    <Stop stop_id="TV_110511" stop_name="Verbéna u." stop_lat="46.226601" stop_lon="20.089445" />
+    <Stop stop_id="TV_110512" stop_name="Vértó" stop_lat="46.272079" stop_lon="20.143064" />
+    <Stop stop_id="TV_110513" stop_name="Vértó" stop_lat="46.272083" stop_lon="20.144377" />
+    <Stop stop_id="TV_110514" stop_name="Vértói út" stop_lat="46.274441" stop_lon="20.141474" />
+    <Stop stop_id="TV_110515" stop_name="Vértói út" stop_lat="46.274452" stop_lon="20.141535" />
+    <Stop stop_id="TV_110516" stop_name="Zsámbokréti sor" stop_lat="46.280979" stop_lon="20.126474" />
+    <Stop stop_id="TV_110517" stop_name="Csap u." stop_lat="46.268692" stop_lon="20.177011" />
+    <Stop stop_id="TV_110518" stop_name="Csatorna" stop_lat="46.273480" stop_lon="20.076734" />
+    <Stop stop_id="TV_110519" stop_name="Csatorna" stop_lat="46.273333" stop_lon="20.077321" />
+    <Stop stop_id="TV_110520" stop_name="Cserepes sor" stop_lat="46.244919" stop_lon="20.126435" />
+    <Stop stop_id="TV_110522" stop_name="Cserje sor" stop_lat="46.268549" stop_lon="20.121800" />
+    <Stop stop_id="TV_110523" stop_name="Cserje sor" stop_lat="46.268286" stop_lon="20.121655" />
+    <Stop stop_id="TV_110524" stop_name="Csillag tér (Lugas u.)" stop_lat="46.266838" stop_lon="20.168453" />
+    <Stop stop_id="TV_110525" stop_name="Csillag tér (Lugas u.)" stop_lat="46.266685" stop_lon="20.168283" />
+    <Stop stop_id="TV_110526" stop_name="Csonka u." stop_lat="46.232775" stop_lon="20.135611" />
+    <Stop stop_id="TV_110527" stop_name="Csonka u." stop_lat="46.232784" stop_lon="20.135389" />
+    <Stop stop_id="TV_110528" stop_name="Deli Károly u." stop_lat="46.208900" stop_lon="20.107310" />
+    <Stop stop_id="TV_110529" stop_name="Deli Károly u." stop_lat="46.208980" stop_lon="20.107390" />
+    <Stop stop_id="TV_110530" stop_name="Derkovits fasor" stop_lat="46.235920" stop_lon="20.176660" />
+    <Stop stop_id="TV_110532" stop_name="Diadal u." stop_lat="46.280351" stop_lon="20.168356" />
+    <Stop stop_id="TV_110533" stop_name="Dobó u." stop_lat="46.239326" stop_lon="20.134690" />
+    <Stop stop_id="TV_110534" stop_name="Dobó u." stop_lat="46.239178" stop_lon="20.134612" />
+    <Stop stop_id="TV_110535" stop_name="Dráva u." stop_lat="46.262389" stop_lon="20.189347" />
+    <Stop stop_id="TV_110536" stop_name="Dráva u." stop_lat="46.263185" stop_lon="20.188258" />
+    <Stop stop_id="TV_110537" stop_name="Dugonics tér" stop_lat="46.249848" stop_lon="20.144787" />
+    <Stop stop_id="TV_110538" stop_name="Duna u." stop_lat="46.258913" stop_lon="20.181133" />
+    <Stop stop_id="TV_110539" stop_name="Duna u." stop_lat="46.259002" stop_lon="20.181233" />
+    <Stop stop_id="TV_110540" stop_name="Erdő u." stop_lat="46.261199" stop_lon="20.171557" />
+    <Stop stop_id="TV_110541" stop_name="Erdő u." stop_lat="46.260882" stop_lon="20.171403" />
+    <Stop stop_id="TV_110542" stop_name="Erdőtarcsa u." stop_lat="46.282703" stop_lon="20.067419" />
+    <Stop stop_id="TV_110543" stop_name="Erdőtarcsa u." stop_lat="46.282768" stop_lon="20.067715" />
+    <Stop stop_id="TV_110544" stop_name="Etelka sor" stop_lat="46.258930" stop_lon="20.171375" />
+    <Stop stop_id="TV_110545" stop_name="Fecske u." stop_lat="46.263501" stop_lon="20.164174" />
+    <Stop stop_id="TV_110546" stop_name="Fecske u." stop_lat="46.264337" stop_lon="20.165152" />
+    <Stop stop_id="TV_110547" stop_name="Fehérparti lejáró" stop_lat="46.230776" stop_lon="20.093813" />
+    <Stop stop_id="TV_110548" stop_name="Fehérparti lejáró" stop_lat="46.230956" stop_lon="20.094043" />
+    <Stop stop_id="TV_110549" stop_name="Fehértói halgazdaság" stop_lat="46.302645" stop_lon="20.073189" />
+    <Stop stop_id="TV_110550" stop_name="Földhivatal" stop_lat="46.252285" stop_lon="20.136029" />
+    <Stop stop_id="TV_110551" stop_name="Földvári u." stop_lat="46.249440" stop_lon="20.142980" />
+    <Stop stop_id="TV_110552" stop_name="Füvészkert" stop_lat="46.232944" stop_lon="20.155514" />
+    <Stop stop_id="TV_110553" stop_name="Füvészkert" stop_lat="46.232899" stop_lon="20.155703" />
+    <Stop stop_id="TV_110554" stop_name="Gábor Áron u." stop_lat="46.268134" stop_lon="20.177382" />
+    <Stop stop_id="TV_110555" stop_name="Gábor Áron u." stop_lat="46.268385" stop_lon="20.176714" />
+    <Stop stop_id="TV_110556" stop_name="Gál utca" stop_lat="46.261028" stop_lon="20.158904" />
+    <Stop stop_id="TV_110557" stop_name="Gárdonyi Géza u." stop_lat="46.220988" stop_lon="20.081693" />
+    <Stop stop_id="TV_110558" stop_name="Gárdonyi Géza u." stop_lat="46.221229" stop_lon="20.082104" />
+    <Stop stop_id="TV_110559" stop_name="Gém u." stop_lat="46.263255" stop_lon="20.151096" />
+    <Stop stop_id="TV_110560" stop_name="Gólya u." stop_lat="46.244315" stop_lon="20.129260" />
+    <Stop stop_id="TV_110561" stop_name="Gőzmalom u." stop_lat="46.202981" stop_lon="20.191413" />
+    <Stop stop_id="TV_110562" stop_name="Gőzmalom u." stop_lat="46.203031" stop_lon="20.191284" />
+    <Stop stop_id="TV_110563" stop_name="Gyálarét" stop_lat="46.205551" stop_lon="20.109632" />
+    <Stop stop_id="TV_110566" stop_name="Gyümölcs u." stop_lat="46.281140" stop_lon="20.166460" />
+    <Stop stop_id="TV_110567" stop_name="Gyümölcs u." stop_lat="46.281290" stop_lon="20.166360" />
+    <Stop stop_id="TV_110568" stop_name="Hajós u." stop_lat="46.259549" stop_lon="20.165259" />
+    <Stop stop_id="TV_110569" stop_name="Hajós u." stop_lat="46.260070" stop_lon="20.164894" />
+    <Stop stop_id="TV_110570" stop_name="Hatházak" stop_lat="46.238053" stop_lon="20.152317" />
+    <Stop stop_id="TV_110571" stop_name="Hatházak" stop_lat="46.237981" stop_lon="20.152335" />
+    <Stop stop_id="TV_110572" stop_name="Hétvezér u." stop_lat="46.259248" stop_lon="20.144089" />
+    <Stop stop_id="TV_110573" stop_name="Hétvezér u." stop_lat="46.259238" stop_lon="20.144516" />
+    <Stop stop_id="TV_110574" stop_name="Holt-Tisza" stop_lat="46.226530" stop_lon="20.112658" />
+    <Stop stop_id="TV_110575" stop_name="Holt-Tisza" stop_lat="46.226568" stop_lon="20.113072" />
+    <Stop stop_id="TV_110576" stop_name="Honfoglalás u." stop_lat="46.260485" stop_lon="20.204811" />
+    <Stop stop_id="TV_110577" stop_name="Honfoglalás u." stop_lat="46.260463" stop_lon="20.204715" />
+    <Stop stop_id="TV_110578" stop_name="Honvéd tér" stop_lat="46.248651" stop_lon="20.144536" />
+    <Stop stop_id="TV_110581" stop_name="II. Kórház" stop_lat="46.253554" stop_lon="20.125112" />
+    <Stop stop_id="TV_110582" stop_name="II. Kórház" stop_lat="46.253407" stop_lon="20.126257" />
+    <Stop stop_id="TV_110583" stop_name="Ipoly sor" stop_lat="46.275031" stop_lon="20.146066" />
+    <Stop stop_id="TV_110584" stop_name="Ipoly sor" stop_lat="46.276249" stop_lon="20.145363" />
+    <Stop stop_id="TV_110585" stop_name="Iskola u." stop_lat="46.216418" stop_lon="20.191920" />
+    <Stop stop_id="TV_110586" stop_name="Iskola u." stop_lat="46.216688" stop_lon="20.192315" />
+    <Stop stop_id="TV_110587" stop_name="Kalász u." stop_lat="46.275421" stop_lon="20.172247" />
+    <Stop stop_id="TV_110588" stop_name="Kalász u." stop_lat="46.275065" stop_lon="20.172249" />
+    <Stop stop_id="TV_110589" stop_name="Kálvária sgt." stop_lat="46.251050" stop_lon="20.138310" />
+    <Stop stop_id="TV_110590" stop_name="Kálvária sgt." stop_lat="46.252660" stop_lon="20.138980" />
+    <Stop stop_id="TV_110591" stop_name="Kálvária tér" stop_lat="46.253147" stop_lon="20.130291" />
+    <Stop stop_id="TV_110592" stop_name="Kálvária tér" stop_lat="46.253159" stop_lon="20.130131" />
+    <Stop stop_id="TV_110593" stop_name="Kamarási u." stop_lat="46.231298" stop_lon="20.118418" />
+    <Stop stop_id="TV_110594" stop_name="Kamarási u." stop_lat="46.230670" stop_lon="20.117616" />
+    <Stop stop_id="TV_110595" stop_name="Kamaratöltés" stop_lat="46.230907" stop_lon="20.174817" />
+    <Stop stop_id="TV_110596" stop_name="Kamaratöltés" stop_lat="46.230518" stop_lon="20.175846" />
+    <Stop stop_id="TV_110597" stop_name="Kavics u." stop_lat="46.228585" stop_lon="20.180311" />
+    <Stop stop_id="TV_110598" stop_name="Kavics u." stop_lat="46.228821" stop_lon="20.179934" />
+    <Stop stop_id="TV_110599" stop_name="Kenyérgyári út" stop_lat="46.255409" stop_lon="20.123989" />
+    <Stop stop_id="TV_110600" stop_name="Kereskedelmi rakt." stop_lat="46.261398" stop_lon="20.111034" />
+    <Stop stop_id="TV_110601" stop_name="Kereskedelmi rakt." stop_lat="46.261693" stop_lon="20.110121" />
+    <Stop stop_id="TV_110603" stop_name="Kereskedő köz" stop_lat="46.260571" stop_lon="20.114390" />
+    <Stop stop_id="TV_110604" stop_name="Kísérleti gazdaság" stop_lat="46.290457" stop_lon="20.085477" />
+    <Stop stop_id="TV_110606" stop_name="Kiskertek" stop_lat="46.219540" stop_lon="20.111150" />
+    <Stop stop_id="TV_110607" stop_name="Kiskertek" stop_lat="46.219620" stop_lon="20.111170" />
+    <Stop stop_id="TV_110608" stop_name="Kiskundorozsma, ABC" stop_lat="46.274449" stop_lon="20.064200" />
+    <Stop stop_id="TV_110609" stop_name="Kiskundorozsma, ABC" stop_lat="46.274315" stop_lon="20.064313" />
+    <Stop stop_id="TV_110610" stop_name="Kiskundorozsma, Vásártér" stop_lat="46.282159" stop_lon="20.063705" />
+    <Stop stop_id="TV_110611" stop_name="Kiskundorozsma, Vásártér" stop_lat="46.282085" stop_lon="20.063393" />
+    <Stop stop_id="TV_110612" stop_name="Kisstadion" stop_lat="46.244541" stop_lon="20.165169" />
+    <Stop stop_id="TV_110613" stop_name="Kisteleki u." stop_lat="46.265916" stop_lon="20.131744" />
+    <Stop stop_id="TV_110614" stop_name="Kisteleki u." stop_lat="46.266037" stop_lon="20.132045" />
+    <Stop stop_id="TV_110615" stop_name="Kiskundorozsma, vá.bej." stop_lat="46.270557" stop_lon="20.089187" />
+    <Stop stop_id="TV_110616" stop_name="Kiskundorozsma, vá.bej." stop_lat="46.270150" stop_lon="20.090215" />
+    <Stop stop_id="TV_110617" stop_name="Kokárda u." stop_lat="46.284070" stop_lon="20.165480" />
+    <Stop stop_id="TV_110618" stop_name="Kokárda u." stop_lat="46.283800" stop_lon="20.165490" />
+    <Stop stop_id="TV_110619" stop_name="Kolozsvári tér" stop_lat="46.246465" stop_lon="20.131673" />
+    <Stop stop_id="TV_110620" stop_name="Koszorú u." stop_lat="46.205770" stop_lon="20.106820" />
+    <Stop stop_id="TV_110621" stop_name="Koszorú u." stop_lat="46.206390" stop_lon="20.106470" />
+    <Stop stop_id="TV_110622" stop_name="Lengyel u." stop_lat="46.260530" stop_lon="20.157320" />
+    <Stop stop_id="TV_110623" stop_name="Lidicei tér" stop_lat="46.271447" stop_lon="20.172166" />
+    <Stop stop_id="TV_110624" stop_name="Lidicei tér" stop_lat="46.271688" stop_lon="20.173004" />
+    <Stop stop_id="TV_110625" stop_name="Lugas u." stop_lat="46.267017" stop_lon="20.170864" />
+    <Stop stop_id="TV_110626" stop_name="Lugas u." stop_lat="46.266731" stop_lon="20.170752" />
+    <Stop stop_id="TV_110627" stop_name="Makkosház" stop_lat="46.276409" stop_lon="20.146936" />
+    <Stop stop_id="TV_110628" stop_name="Makkosházi krt." stop_lat="46.272316" stop_lon="20.150142" />
+    <Stop stop_id="TV_110629" stop_name="Malom (Jerney u.)" stop_lat="46.272986" stop_lon="20.071583" />
+    <Stop stop_id="TV_110630" stop_name="Marostői utca" stop_lat="46.247742" stop_lon="20.174915" />
+    <Stop stop_id="TV_110631" stop_name="Marostői utca" stop_lat="46.248040" stop_lon="20.173922" />
+    <Stop stop_id="TV_110633" stop_name="Moszkvai krt." stop_lat="46.246523" stop_lon="20.137208" />
+    <Stop stop_id="TV_110634" stop_name="Moszkvai krt." stop_lat="46.246405" stop_lon="20.137204" />
+    <Stop stop_id="TV_110637" stop_name="Napfény köz" stop_lat="46.226186" stop_lon="20.186225" />
+    <Stop stop_id="TV_110638" stop_name="Napfény köz" stop_lat="46.226505" stop_lon="20.185687" />
+    <Stop stop_id="TV_110639" stop_name="Negyvennyolcas u." stop_lat="46.279662" stop_lon="20.064067" />
+    <Stop stop_id="TV_110640" stop_name="Negyvennyolcas u." stop_lat="46.279253" stop_lon="20.063852" />
+    <Stop stop_id="TV_110643" stop_name="Csanádi u." stop_lat="46.245660" stop_lon="20.159140" />
+    <Stop stop_id="TV_110644" stop_name="Csanádi u." stop_lat="46.244780" stop_lon="20.160000" />
+    <Stop stop_id="TV_110645" stop_name="Petőfi Sándor sgt." stop_lat="46.246584" stop_lon="20.138575" />
+    <Stop stop_id="TV_110646" stop_name="Petőfi Sándor sgt." stop_lat="46.246410" stop_lon="20.138790" />
+    <Stop stop_id="TV_110647" stop_name="Fő tér" stop_lat="46.263300" stop_lon="20.180770" />
+    <Stop stop_id="TV_110648" stop_name="Fő tér" stop_lat="46.263250" stop_lon="20.180320" />
+    <Stop stop_id="TV_110649" stop_name="Fő tér" stop_lat="46.262940" stop_lon="20.180310" />
+    <Stop stop_id="TV_110650" stop_name="Rákóczi u. (Vám tér)" stop_lat="46.244213" stop_lon="20.132781" />
+    <Stop stop_id="TV_110651" stop_name="Rákóczi u. (Vám tér)" stop_lat="46.243766" stop_lon="20.132036" />
+    <Stop stop_id="TV_110652" stop_name="Rákóczi u. (Vám tér)" stop_lat="46.243641" stop_lon="20.133288" />
+    <Stop stop_id="TV_110653" stop_name="Rendező tér" stop_lat="46.227724" stop_lon="20.116284" />
+    <Stop stop_id="TV_110654" stop_name="Rendező tér" stop_lat="46.228413" stop_lon="20.116040" />
+    <Stop stop_id="TV_110655" stop_name="Rengey u." stop_lat="46.277525" stop_lon="20.121197" />
+    <Stop stop_id="TV_110656" stop_name="Rengey u." stop_lat="46.278103" stop_lon="20.120371" />
+    <Stop stop_id="TV_110657" stop_name="Repülőtér" stop_lat="46.251026" stop_lon="20.102235" />
+    <Stop stop_id="TV_110658" stop_name="Repülőtér bej.út" stop_lat="46.253895" stop_lon="20.101792" />
+    <Stop stop_id="TV_110659" stop_name="Repülőtér bej.út" stop_lat="46.253918" stop_lon="20.101869" />
+    <Stop stop_id="TV_110660" stop_name="Retek utca" stop_lat="46.266084" stop_lon="20.157564" />
+    <Stop stop_id="TV_110661" stop_name="Retek utca" stop_lat="46.267217" stop_lon="20.157615" />
+    <Stop stop_id="TV_110662" stop_name="Rév u." stop_lat="46.258335" stop_lon="20.201525" />
+    <Stop stop_id="TV_110663" stop_name="Rév u." stop_lat="46.257979" stop_lon="20.199663" />
+    <Stop stop_id="TV_110664" stop_name="Rókusi víztorony" stop_lat="46.268600" stop_lon="20.134709" />
+    <Stop stop_id="TV_110665" stop_name="Rókusi víztorony" stop_lat="46.269296" stop_lon="20.136368" />
+    <Stop stop_id="TV_110666" stop_name="Rózsa u." stop_lat="46.266340" stop_lon="20.151940" />
+    <Stop stop_id="TV_110667" stop_name="Sajka utca" stop_lat="46.259911" stop_lon="20.162162" />
+    <Stop stop_id="TV_110668" stop_name="Sándor utca" stop_lat="46.261552" stop_lon="20.156765" />
+    <Stop stop_id="TV_110669" stop_name="Sárkány u." stop_lat="46.236733" stop_lon="20.131577" />
+    <Stop stop_id="TV_110670" stop_name="Sárkány u." stop_lat="46.236734" stop_lon="20.131719" />
+    <Stop stop_id="TV_110671" stop_name="Subasa" stop_lat="46.275323" stop_lon="20.032407" />
+    <Stop stop_id="TV_110672" stop_name="Subasa" stop_lat="46.275187" stop_lon="20.032374" />
+    <Stop stop_id="TV_110673" stop_name="Szabadság tér" stop_lat="46.234064" stop_lon="20.132341" />
+    <Stop stop_id="TV_110674" stop_name="Szabadság tér" stop_lat="46.234081" stop_lon="20.132138" />
+    <Stop stop_id="TV_110675" stop_name="Szabadsajtó u." stop_lat="46.236318" stop_lon="20.138423" />
+    <Stop stop_id="TV_110676" stop_name="Szabadsajtó u." stop_lat="46.236437" stop_lon="20.138602" />
+    <Stop stop_id="TV_110677" stop_name="Szalámigyár" stop_lat="46.241008" stop_lon="20.122000" />
+    <Stop stop_id="TV_110678" stop_name="Szalámigyár" stop_lat="46.241204" stop_lon="20.122942" />
+    <Stop stop_id="TV_110679" stop_name="Szamos u." stop_lat="46.266713" stop_lon="20.161622" />
+    <Stop stop_id="TV_110680" stop_name="Szamos u." stop_lat="46.266600" stop_lon="20.162113" />
+    <Stop stop_id="TV_110682" stop_name="Szél u." stop_lat="46.247580" stop_lon="20.128793" />
+    <Stop stop_id="TV_110683" stop_name="Szél u." stop_lat="46.248209" stop_lon="20.129321" />
+    <Stop stop_id="TV_110684" stop_name="Személy pu." stop_lat="46.239979" stop_lon="20.142611" />
+    <Stop stop_id="TV_110685" stop_name="Személy pu." stop_lat="46.240662" stop_lon="20.142979" />
+    <Stop stop_id="TV_110686" stop_name="Szent Ferenc u." stop_lat="46.242142" stop_lon="20.138227" />
+    <Stop stop_id="TV_110687" stop_name="Szent Ferenc u." stop_lat="46.242466" stop_lon="20.138691" />
+    <Stop stop_id="TV_110688" stop_name="Szent Ferenc u." stop_lat="46.242275" stop_lon="20.136852" />
+    <Stop stop_id="TV_110689" stop_name="Szent Ferenc u." stop_lat="46.242115" stop_lon="20.137450" />
+    <Stop stop_id="TV_110690" stop_name="Bajai út" stop_lat="46.255022" stop_lon="20.107817" />
+    <Stop stop_id="TV_110691" stop_name="Bajai út" stop_lat="46.254655" stop_lon="20.110518" />
+    <Stop stop_id="TV_110692" stop_name="Berlini krt." stop_lat="46.261383" stop_lon="20.149621" />
+    <Stop stop_id="TV_110693" stop_name="Berlini krt." stop_lat="46.261493" stop_lon="20.152099" />
+    <Stop stop_id="TV_110694" stop_name="Deák Ferenc Gimnázium" stop_lat="46.269223" stop_lon="20.157693" />
+    <Stop stop_id="TV_110695" stop_name="Deák Ferenc Gimnázium" stop_lat="46.269707" stop_lon="20.158014" />
+    <Stop stop_id="TV_110696" stop_name="Derkovits fasor" stop_lat="46.235870" stop_lon="20.176900" />
+    <Stop stop_id="TV_110697" stop_name="Kiskundorozsma, Fürdő" stop_lat="46.273789" stop_lon="20.023927" />
+    <Stop stop_id="TV_110698" stop_name="Malom (Dorozsmai út)" stop_lat="46.273545" stop_lon="20.071151" />
+    <Stop stop_id="TV_110699" stop_name="Makkosház" stop_lat="46.277080" stop_lon="20.146700" />
+    <Stop stop_id="TV_110700" stop_name="Rókusi II. sz. Ált. Isk." stop_lat="46.270750" stop_lon="20.139450" />
+    <Stop stop_id="TV_110701" stop_name="Rókusi II. sz. Ált. Isk." stop_lat="46.270730" stop_lon="20.139690" />
+    <Stop stop_id="TV_110702" stop_name="Szabadkai út" stop_lat="46.242424" stop_lon="20.126381" />
+    <Stop stop_id="TV_110703" stop_name="Csatár u." stop_lat="46.263772" stop_lon="20.208097" />
+    <Stop stop_id="TV_110704" stop_name="Víztorony tér" stop_lat="46.270721" stop_lon="20.163794" />
+    <Stop stop_id="TV_110708" stop_name="Mars tér" stop_lat="46.259120" stop_lon="20.140966" />
+    <Stop stop_id="TV_110710" stop_name="Hajnal u." stop_lat="46.249985" stop_lon="20.130260" />
+    <Stop stop_id="TV_110711" stop_name="Hajnal u." stop_lat="46.250561" stop_lon="20.130621" />
+    <Stop stop_id="TV_110712" stop_name="Jerney János Ált. Isk." stop_lat="46.269170" stop_lon="20.071580" />
+    <Stop stop_id="TV_110713" stop_name="Jerney János Ált. Isk." stop_lat="46.269820" stop_lon="20.071650" />
+    <Stop stop_id="TV_110714" stop_name="Malom (Dorozsmai út)" stop_lat="46.273439" stop_lon="20.072267" />
+    <Stop stop_id="TV_110715" stop_name="Huszka Jenő utca" stop_lat="46.265873" stop_lon="20.069382" />
+    <Stop stop_id="TV_110716" stop_name="Huszka Jenő utca" stop_lat="46.265865" stop_lon="20.068497" />
+    <Stop stop_id="TV_110733" stop_name="Móravárosi Bevásárlóközpo" stop_lat="46.243828" stop_lon="20.123297" />
+    <Stop stop_id="TV_110734" stop_name="Móravárosi Bevásárlóközpo" stop_lat="46.244286" stop_lon="20.122809" />
+    <Stop stop_id="TV_110735" stop_name="Zágráb u." stop_lat="46.264187" stop_lon="20.185856" />
+    <Stop stop_id="TV_110736" stop_name="Zágráb u." stop_lat="46.264177" stop_lon="20.185012" />
+    <Stop stop_id="TV_110737" stop_name="Klára utca" stop_lat="46.233967" stop_lon="20.186047" />
+    <Stop stop_id="TV_110738" stop_name="Klára utca" stop_lat="46.233896" stop_lon="20.186224" />
+    <Stop stop_id="TV_110739" stop_name="Katalin utca" stop_lat="46.232189" stop_lon="20.190346" />
+    <Stop stop_id="TV_110740" stop_name="Honvéd tér (Tisza Lajos k" stop_lat="46.248876" stop_lon="20.144996" />
+    <Stop stop_id="TV_110741" stop_name="Cincér utca" stop_lat="46.225426" stop_lon="20.110374" />
+    <Stop stop_id="TV_110742" stop_name="Cincér utca" stop_lat="46.225761" stop_lon="20.111107" />
+    <Stop stop_id="TV_110743" stop_name="Napfényfürdő" stop_lat="46.249760" stop_lon="20.160610" />
+    <Stop stop_id="TV_110744" stop_name="Napfényfürdő" stop_lat="46.249664" stop_lon="20.159697" />
+    <Stop stop_id="TV_110747" stop_name="Budapesti út" stop_lat="46.267716" stop_lon="20.102987" />
+    <Stop stop_id="TV_110748" stop_name="Budapesti út" stop_lat="46.267554" stop_lon="20.102972" />
+    <Stop stop_id="TV_110749" stop_name="Anna-kút (Tisza Lajos krt" stop_lat="46.256008" stop_lon="20.148464" />
+    <Stop stop_id="TV_110750" stop_name="Anna-kút (Tisza Lajos krt" stop_lat="46.256077" stop_lon="20.148909" />
+    <Stop stop_id="TV_110751" stop_name="Római krt. (Szilléri sgt." stop_lat="46.260711" stop_lon="20.160533" />
+    <Stop stop_id="TV_110752" stop_name="Római krt. (Szilléri sgt." stop_lat="46.261231" stop_lon="20.162292" />
+    <Stop stop_id="TV_110753" stop_name="Dugonics tér (Dáni utca)" stop_lat="46.251198" stop_lon="20.143234" />
+    <Stop stop_id="TV_110754" stop_name="Dugonics tér (Dáni utca)" stop_lat="46.251091" stop_lon="20.143314" />
+    <Stop stop_id="TV_110755" stop_name="Kollégiumi út" stop_lat="46.269177" stop_lon="20.095849" />
+    <Stop stop_id="TV_110756" stop_name="Kollégiumi út" stop_lat="46.268798" stop_lon="20.097328" />
+    <Stop stop_id="TV_110757" stop_name="Diófa utca (Derkovits fas" stop_lat="46.239580" stop_lon="20.172720" />
+    <Stop stop_id="TV_110758" stop_name="Diófa utca (Derkovits fas" stop_lat="46.239370" stop_lon="20.173070" />
+    <Stop stop_id="TV_110759" stop_name="Diófa utca (Szőregi út)" stop_lat="46.238880" stop_lon="20.167450" />
+    <Stop stop_id="TV_110760" stop_name="Diófa utca (Szőregi út)" stop_lat="46.239310" stop_lon="20.167100" />
+    <Stop stop_id="TV_110761" stop_name="Aranyosi utca" stop_lat="46.235960" stop_lon="20.171153" />
+    <Stop stop_id="TV_110762" stop_name="Aranyosi utca" stop_lat="46.236380" stop_lon="20.170797" />
+    <Stop stop_id="TV_110763" stop_name="Dugonics tér (Tisza Lajos" stop_lat="46.251413" stop_lon="20.144634" />
+    <Stop stop_id="TV_110764" stop_name="Dugonics tér (Tisza Lajos" stop_lat="46.251769" stop_lon="20.144937" />
+    <Stop stop_id="TV_110765" stop_name="Gyár u. (Szerb u.)" stop_lat="46.205931" stop_lon="20.194777" />
+    <Stop stop_id="TV_110766" stop_name="Gyár u. (Szerb u.)" stop_lat="46.206321" stop_lon="20.194928" />
+    <Stop stop_id="TV_110767" stop_name="Szőregi Szabadidőpark" stop_lat="46.213785" stop_lon="20.196082" />
+    <Stop stop_id="TV_110768" stop_name="Szőregi Szabadidőpark" stop_lat="46.213847" stop_lon="20.196213" />
+    <Stop stop_id="TV_110769" stop_name="Ikarusz köz" stop_lat="46.260370" stop_lon="20.107588" />
+    <Stop stop_id="TV_110770" stop_name="Ikarusz köz" stop_lat="46.260876" stop_lon="20.107747" />
+    <Stop stop_id="TV_110771" stop_name="József Attila sgt. (Retek" stop_lat="46.266858" stop_lon="20.158417" />
+    <Stop stop_id="TV_110772" stop_name="József Attila sgt. (Retek" stop_lat="46.266754" stop_lon="20.159185" />
+    <Stop stop_id="TV_110773" stop_name="Kálvária sgt. (Vásárhelyi" stop_lat="46.254318" stop_lon="20.123972" />
+    <Stop stop_id="TV_110774" stop_name="Kecskés telep, Gera Sándo" stop_lat="46.238163" stop_lon="20.112885" />
+    <Stop stop_id="TV_110775" stop_name="Kecskés telep, Gera Sándo" stop_lat="46.237851" stop_lon="20.112217" />
+    <Stop stop_id="TV_110776" stop_name="Bódi Vera u." stop_lat="46.236095" stop_lon="20.106645" />
+    <Stop stop_id="TV_110777" stop_name="Bódi Vera u." stop_lat="46.235826" stop_lon="20.106127" />
+    <Stop stop_id="TV_110778" stop_name="Napos út (Dorozsmai út)" stop_lat="46.265497" stop_lon="20.120894" />
+    <Stop stop_id="TV_110779" stop_name="Londoni krt. (Kálvária sg" stop_lat="46.252138" stop_lon="20.137605" />
+    <Stop stop_id="TV_110780" stop_name="Londoni krt. (Kálvária sg" stop_lat="46.251708" stop_lon="20.139619" />
+    <Stop stop_id="TV_110782" stop_name="Makkosházi krt. (Rókusi k" stop_lat="46.272385" stop_lon="20.147089" />
+    <Stop stop_id="TV_110785" stop_name="Glattfelder Gyula tér" stop_lat="46.256538" stop_lon="20.156015" />
+    <Stop stop_id="TV_110786" stop_name="Glattfelder Gyula tér" stop_lat="46.256605" stop_lon="20.156075" />
+    <Stop stop_id="TV_110787" stop_name="Közép fasor (Bérkert u.)" stop_lat="46.249000" stop_lon="20.170238" />
+    <Stop stop_id="TV_110788" stop_name="Közép fasor (Bérkert u.)" stop_lat="46.248909" stop_lon="20.170871" />
+    <Stop stop_id="TV_110789" stop_name="Gyár u. (Magyar u.)" stop_lat="46.205826" stop_lon="20.188632" />
+    <Stop stop_id="TV_110790" stop_name="Gyár u. (Magyar u.)" stop_lat="46.205862" stop_lon="20.188686" />
+    <Stop stop_id="TV_110791" stop_name="Fonógyári úti Iparváros" stop_lat="46.263177" stop_lon="20.109158" />
+    <Stop stop_id="TV_110792" stop_name="Fonógyári úti Iparváros" stop_lat="46.263771" stop_lon="20.109365" />
+    <Stop stop_id="TV_110793" stop_name="Dankó Pista utca" stop_lat="46.261920" stop_lon="20.157847" />
+    <Stop stop_id="TV_110794" stop_name="Rózsa u. (Csongrádi sgt.)" stop_lat="46.265968" stop_lon="20.151211" />
+    <Stop stop_id="TV_110795" stop_name="Rózsatő u. (Magyar u.)" stop_lat="46.210449" stop_lon="20.188837" />
+    <Stop stop_id="TV_110796" stop_name="Rózsatő u. (Magyar u.)" stop_lat="46.210190" stop_lon="20.188905" />
+    <Stop stop_id="TV_110797" stop_name="Rózsatő u. (Szerb u.)" stop_lat="46.210435" stop_lon="20.195138" />
+    <Stop stop_id="TV_110798" stop_name="Rózsatő u. (Szerb u.)" stop_lat="46.210435" stop_lon="20.195298" />
+    <Stop stop_id="TV_110799" stop_name="Mars tér" stop_lat="46.256852" stop_lon="20.141370" />
+    <Stop stop_id="TV_110800" stop_name="Mars tér" stop_lat="46.256922" stop_lon="20.141727" />
+    <Stop stop_id="TV_110801" stop_name="Kossuth Lajos Ált. Isk." stop_lat="46.217155" stop_lon="20.197126" />
+    <Stop stop_id="TV_110802" stop_name="Kossuth Lajos Ált. Isk." stop_lat="46.217514" stop_lon="20.197372" />
+    <Stop stop_id="TV_110803" stop_name="Tücsök utca" stop_lat="46.218170" stop_lon="20.110600" />
+    <Stop stop_id="TV_110804" stop_name="Tücsök utca" stop_lat="46.217800" stop_lon="20.110500" />
+    <Stop stop_id="TV_110805" stop_name="Koppány köz" stop_lat="46.216483" stop_lon="20.075441" />
+    <Stop stop_id="TV_110806" stop_name="Koppány köz" stop_lat="46.216279" stop_lon="20.075177" />
+    <Stop stop_id="TV_110807" stop_name="Vásárhelyi Pál u. (Pulz u" stop_lat="46.263603" stop_lon="20.130180" />
+    <Stop stop_id="TV_110808" stop_name="Vásárhelyi Pál u. (Pulz u" stop_lat="46.263622" stop_lon="20.130514" />
+    <Stop stop_id="TV_110809" stop_name="József Attila sgt. (Budap" stop_lat="46.272438" stop_lon="20.160616" />
+    <Stop stop_id="TV_110810" stop_name="József Attila sgt. (Budap" stop_lat="46.272335" stop_lon="20.160297" />
+    <Stop stop_id="TV_110811" stop_name="Széksósi út" stop_lat="46.277332" stop_lon="20.052188" />
+    <Stop stop_id="TV_110812" stop_name="Széksósi út" stop_lat="46.277167" stop_lon="20.053063" />
+    <Stop stop_id="TV_110813" stop_name="Gabonakutató" stop_lat="46.244984" stop_lon="20.157206" />
+    <Stop stop_id="TV_110814" stop_name="Gabonakutató" stop_lat="46.244666" stop_lon="20.157207" />
+    <Stop stop_id="TV_110815" stop_name="Alsó kikötő sor" stop_lat="46.241818" stop_lon="20.154154" />
+    <Stop stop_id="TV_110816" stop_name="Alsó kikötő sor" stop_lat="46.241723" stop_lon="20.154199" />
+    <Stop stop_id="TV_110817" stop_name="Basahíd utca" stop_lat="46.270374" stop_lon="20.060508" />
+    <Stop stop_id="TV_110818" stop_name="Basahíd utca" stop_lat="46.270424" stop_lon="20.060484" />
+    <Stop stop_id="TV_110819" stop_name="Csipkebogyó utca" stop_lat="46.276000" stop_lon="20.034900" />
+    <Stop stop_id="TV_110820" stop_name="Csipkebogyó utca" stop_lat="46.275910" stop_lon="20.035700" />
+    <Stop stop_id="TV_110821" stop_name="Temesvári krt. (Népkert s" stop_lat="46.249930" stop_lon="20.165796" />
+    <Stop stop_id="TV_110822" stop_name="Temesvári krt. (Népkert s" stop_lat="46.249991" stop_lon="20.166070" />
+    <Stop stop_id="TV_110823" stop_name="Nagyszombati u. (páratlan" stop_lat="46.275202" stop_lon="20.119442" />
+    <Stop stop_id="TV_110824" stop_name="Nagyszombati u. (páros ol" stop_lat="46.275836" stop_lon="20.118297" />
+    <Stop stop_id="TV_110825" stop_name="Sportcsarnok (Székely sor" stop_lat="46.245280" stop_lon="20.163070" />
+    <Stop stop_id="TV_110826" stop_name="Sportcsarnok (Székely sor" stop_lat="46.245440" stop_lon="20.163040" />
+    <Stop stop_id="TV_110827" stop_name="Sportcsarnok (Temesvári k" stop_lat="46.244148" stop_lon="20.162853" />
+    <Stop stop_id="TV_110828" stop_name="Sportcsarnok (Temesvári k" stop_lat="46.244110" stop_lon="20.163160" />
+    <Stop stop_id="TV_110829" stop_name="Etelka sor (Felső Tisza-p" stop_lat="46.258275" stop_lon="20.172019" />
+    <Stop stop_id="TV_110830" stop_name="Etelka sor (Felső Tisza-p" stop_lat="46.258556" stop_lon="20.170494" />
+    <Stop stop_id="TV_110831" stop_name="Szent János tér" stop_lat="46.274441" stop_lon="20.061872" />
+    <Stop stop_id="TV_110832" stop_name="Szent János tér" stop_lat="46.274293" stop_lon="20.062516" />
+    <Stop stop_id="TV_110834" stop_name="Széchenyi István u." stop_lat="46.265884" stop_lon="20.062754" />
+    <Stop stop_id="TV_110835" stop_name="Széchenyi István u." stop_lat="46.265781" stop_lon="20.063025" />
+    <Stop stop_id="TV_110836" stop_name="Tabán u. (Felső Tisza-par" stop_lat="46.258613" stop_lon="20.168319" />
+    <Stop stop_id="TV_110837" stop_name="Tabán u. (Felső Tisza-par" stop_lat="46.258496" stop_lon="20.166542" />
+    <Stop stop_id="TV_110838" stop_name="Városi Stadion" stop_lat="46.258004" stop_lon="20.175666" />
+    <Stop stop_id="TV_110839" stop_name="Városi Stadion" stop_lat="46.258084" stop_lon="20.175710" />
+    <Stop stop_id="TV_110840" stop_name="Nyilassy utca" stop_lat="46.257214" stop_lon="20.196699" />
+    <Stop stop_id="TV_110841" stop_name="Nyilassy utca" stop_lat="46.257351" stop_lon="20.196573" />
+    <Stop stop_id="TV_110842" stop_name="Első Szegedi Ipari Park" stop_lat="46.268247" stop_lon="20.118008" />
+    <Stop stop_id="TV_110843" stop_name="Mars tér" stop_lat="46.258951" stop_lon="20.140794" />
+    <Stop stop_id="TV_110844" stop_name="Mars tér" stop_lat="46.259120" stop_lon="20.140966" />
+    <Stop stop_id="TV_110845" stop_name="Brassói utca" stop_lat="46.276142" stop_lon="20.058258" />
+    <Stop stop_id="TV_110846" stop_name="Brassói utca" stop_lat="46.275902" stop_lon="20.058676" />
+    <Stop stop_id="TV_110847" stop_name="Balajthy utca" stop_lat="46.277817" stop_lon="20.063682" />
+    <Stop stop_id="TV_110848" stop_name="Balajthy utca" stop_lat="46.277048" stop_lon="20.063337" />
+    <Stop stop_id="TV_110862" stop_name="Rókusi templom" stop_lat="46.259361" stop_lon="20.141603" />
+    <Stop stop_id="TV_111086" stop_name="Makkosházi krt. (Csongrád" stop_lat="46.273066" stop_lon="20.147845" />
+    <Stop stop_id="TV_111101" stop_name="Krematórium" stop_lat="46.254556" stop_lon="20.098779" />
+    <Stop stop_id="TV_111104" stop_name="Fő fasor (Temesvári krt.)" stop_lat="46.247126" stop_lon="20.165185" />
+    <Stop stop_id="TV_111105" stop_name="Fő fasor (Temesvári krt.)" stop_lat="46.247594" stop_lon="20.165716" />
+    <Stop stop_id="TV_111107" stop_name="Vadaspark" stop_lat="46.254494" stop_lon="20.118704" />
+    <Stop stop_id="TV_111108" stop_name="Ságvári Gimnázium - SZTK" stop_lat="46.247438" stop_lon="20.145251" />
+    <Stop stop_id="TV_111109" stop_name="Ságvári Gimnázium - SZTK" stop_lat="46.247453" stop_lon="20.145309" />
+    <Stop stop_id="TV_111116" stop_name="Anna-kút (Tisza Lajos krt" stop_lat="46.255885" stop_lon="20.148513" />
+    <Stop stop_id="TV_111343" stop_name="Kenyérgyári út 5." stop_lat="46.256014" stop_lon="20.121974" />
+    <Stop stop_id="TV_111973" stop_name="ELI lézeres kutatóközpont" stop_lat="46.278193" stop_lon="20.102653" />
+    <Stop stop_id="TV_111981" stop_name="Kálvária sgt. (Móravárosi" stop_lat="46.252711" stop_lon="20.123393" />
+    <Stop stop_id="TV_113074" stop_name="Cserepes sor (Katona Józs" stop_lat="46.244598" stop_lon="20.125732" />
+    <Stop stop_id="TV_113267" stop_name="Fonógyári út (Kollégiumi" stop_lat="46.262516" stop_lon="20.107034" />
+    <Stop stop_id="TV_113268" stop_name="Fonógyári út (Kollégiumi" stop_lat="46.262329" stop_lon="20.107749" />
+    <Stop stop_id="TV_113269" stop_name="Vállalkozó köz" stop_lat="46.264545" stop_lon="20.099610" />
+    <Stop stop_id="TV_113270" stop_name="Vállalkozó köz" stop_lat="46.264808" stop_lon="20.098490" />
+    <Stop stop_id="TV_113271" stop_name="Dorozsmai út (Kollégiumi" stop_lat="46.268471" stop_lon="20.096324" />
+    <Stop stop_id="TV_113272" stop_name="VOLÁNBUSZ Zrt." stop_lat="46.257885" stop_lon="20.126011" />
+    <Stop stop_id="TV_113273" stop_name="VOLÁNBUSZ Zrt." stop_lat="46.257458" stop_lon="20.125853" />
+    <Stop stop_id="TV_113277" stop_name="Back Bernát utca 2." stop_lat="46.283775" stop_lon="20.087894" />
+    <Stop stop_id="TV_113278" stop_name="Back Bernát utca 2." stop_lat="46.283398" stop_lon="20.088165" />
+    <Stop stop_id="TV_113279" stop_name="Back Bernát utca 6." stop_lat="46.286362" stop_lon="20.085762" />
+    <Stop stop_id="TV_113280" stop_name="Back Bernát utca 6." stop_lat="46.287149" stop_lon="20.085565" />
+    <Stop stop_id="TV_113281" stop_name="Gumigyár (Budapesti út)" stop_lat="46.278528" stop_lon="20.096556" />
+    <Stop stop_id="TV_113282" stop_name="Gumigyár (Budapesti út)" stop_lat="46.279030" stop_lon="20.095830" />
+    <Stop stop_id="TV_113310" stop_name="Csillag tér (Retek u.) (i" stop_lat="46.266506" stop_lon="20.164925" />
+    <Stop stop_id="TV_113311" stop_name="Csillag tér (Retek u.) (i" stop_lat="46.266369" stop_lon="20.165594" />
+    <Stop stop_id="TV_113312" stop_name="Fecske u. (ideiglenes)" stop_lat="46.263428" stop_lon="20.165743" />
+    <Stop stop_id="TV_113313" stop_name="Csaba u. (ideiglenes)" stop_lat="46.263033" stop_lon="20.167825" />
+    <Stop stop_id="TV_113385" stop_name="Szeged vasútállomás" stop_lat="46.239979" stop_lon="20.142611" />
+    <Stop stop_id="TV_113386" stop_name="Szeged vasútállomás" stop_lat="46.240662" stop_lon="20.142979" />
+  </Stops>
+</Report>
